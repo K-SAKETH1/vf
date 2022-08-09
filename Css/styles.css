@@ -1,0 +1,194 @@
+body{
+    width: 390px;
+    height: 844px;
+    margin: 0;
+}
+.phone{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+}
+.fpara{
+    display: inline-block;
+    margin: 0;
+    position: absolute;
+    top: 20px;
+    color: #002B5B;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    
+}
+.fdiv{
+    margin: 0;
+    position: absolute;
+    background-color: #FFF8BC;
+    width: 370px;
+    padding: 10px;
+}
+.big{
+    margin: 0;
+    width: 390px;
+    height: 844px;
+    position: absolute;
+}
+.fb{
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    left: 130px;
+    top: 60px;
+    margin-bottom: 0;
+}
+.finput{
+    position: absolute;
+    top: 100px;
+    left: 20px;
+    width: 88%;
+    height: 30px;
+    background-color: #dddfe2;
+    border: none;
+    border-radius: 2px;
+}
+.password{
+    position: absolute;
+    top: 140px;
+    left: 20px;
+    width: 88%;
+    background-color: #dddfe2;
+    border: none;
+    border-radius: 2px;
+    height: 30px;
+}
+::placeholder{
+    color: #2C3333;
+}
+.sbutton{
+    width: 89%;
+    height: 30px;
+    position: absolute;
+    top: 185px;
+    left: 19px;
+    border: none;
+    border-radius: 2px;
+    background-color: #1363DF;
+     color: white;}
+     span{
+        color: #1363DF;
+        position: absolute;
+        top: 230px;
+        left: 130px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 13px;
+     }
+     .fhr{
+        position: absolute;
+        top: 260px;
+        left: 20px;
+        width: 39%;
+     }
+     .spara{
+        position: absolute;
+        top: 245px;
+        left: 183px;
+        font-family: arial;
+        font-size: 14px;
+     }
+     .shr{
+        position: absolute;
+        top: 260px;
+         left: 205px;
+        width:40%;
+     }
+     .fbutton{
+        position: absolute;
+        top: 300px;
+        left: 120px;
+        color: white;
+background-color: rgba(16, 156, 16, 0.76);
+border: none;
+border-radius: 2px;
+height: 25px;
+     }
+     .fli{
+        position: absolute;
+        top: 400px;
+        left: 50px;
+        list-style: none;
+        font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+     }
+     .sli{
+        position: absolute;
+        top: 420px;
+        left: 70px;
+        list-style: none;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+     }
+     .tli{
+        position: absolute;
+        top: 440px;
+        left: 70px;
+        list-style: none;
+        font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+     }
+     .foli{
+        position: absolute;
+        top: 460px;
+        left: 55px;
+        list-style: none;
+        font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+     }
+     .fili{
+        position: absolute;
+        top: 393px;
+        left: 280px;
+        list-style: none;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+     }
+     .sili{
+        position: absolute;
+        top: 415px;
+        left: 280px;
+        list-style: none;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+     }
+     .seli{
+        position: absolute;
+        top: 435px;
+        left: 280px;
+        list-style: none;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+     }
+     .eli{
+        position: absolute;
+        top: 455px;
+        left: 280px;
+        list-style: none;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+     }
+     .tbutton{
+        width: 25px;
+     }
+     .abt{
+        position: absolute;
+        top: 500px;
+        left: 140px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 11px;
+        color: gray;
+     }
+     .maxx{
+      position: absolute;
+      top: 520px;
+      left: 155px;
+      color: gray;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 11px;
+     }
